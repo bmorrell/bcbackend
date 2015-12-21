@@ -1,0 +1,305 @@
+
+2015-05-25 09:37:07 UTC: 
+Version: 
+Entity: 
+Type: 
+Status: 
+Error Message: 
+Action: 
+-------------------------------
+2015-05-25 09:41:30 UTC: 
+Version: 1
+Entity: 4255249036001
+Type: ASSET
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-05-25 09:41:34 UTC: 
+Version: 1
+Entity: 4255249039001
+Type: ASSET
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-05-25 09:41:36 UTC: 
+Version: 1
+Entity: 4255249042001
+Type: ASSET
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-05-25 09:41:51 UTC: 
+Version: 1
+Entity: 4255249046001
+Type: ASSET
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-05-25 09:41:52 UTC: 
+Version: 1
+Entity: 4255249051001
+Type: ASSET
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-05-25 09:41:54 UTC: 
+Version: 1
+Entity: 4255249050001
+Type: ASSET
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-05-25 09:41:54 UTC: 
+Version: 1
+Entity: 4255249052001
+Type: ASSET
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-05-25 09:41:59 UTC: 
+Version: 1
+Entity: 4255249055001
+Type: ASSET
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-05-25 09:41:59 UTC: 
+Version: 1
+Entity: 4255249054001
+Type: ASSET
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-05-25 09:42:09 UTC: 
+Version: 1
+Entity: 4255249058001
+Type: ASSET
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-05-25 09:42:09 UTC: 
+Version: 1
+Entity: 4255249049001
+Type: ASSET
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-05-25 09:42:10 UTC: 
+Version: 1
+Entity: 4255019876001
+Type: TITLE
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-06-12 16:02:17 UTC: 
+Version: 
+Entity: 
+Type: 
+Status: 
+Error Message: 
+Action: 
+-------------------------------
+2015-08-14 10:01:53 UTC: 
+Version: 1
+Entity: 4420965806001
+Type: ASSET
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-08-14 10:01:53 UTC: 
+Version: 1
+Entity: 4420965805001
+Type: ASSET
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-08-14 10:01:58 UTC: 
+Version: 1
+Entity: 4420965811001
+Type: ASSET
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-08-14 10:02:12 UTC: 
+Version: 1
+Entity: 4420965825001
+Type: ASSET
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-08-14 10:02:14 UTC: 
+Version: 1
+Entity: 4420965822001
+Type: ASSET
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-08-14 10:02:15 UTC: 
+Version: 1
+Entity: 4420965826001
+Type: ASSET
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-08-14 10:02:16 UTC: 
+Version: 1
+Entity: 4420965828001
+Type: ASSET
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-08-14 10:02:17 UTC: 
+Version: 1
+Entity: 4420965830001
+Type: ASSET
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-08-14 10:02:20 UTC: 
+Version: 1
+Entity: 4420965831001
+Type: ASSET
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-08-14 10:02:23 UTC: 
+Version: 1
+Entity: 4420965832001
+Type: ASSET
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-08-14 10:02:28 UTC: 
+Version: 1
+Entity: 4420964634001
+Type: ASSET
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-08-14 10:02:29 UTC: 
+Version: 1
+Entity: 4420921783001
+Type: TITLE
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-08-25 10:26:28 UTC: 
+Version: 1
+Entity: 4442915841001
+Type: ASSET
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-08-25 10:26:31 UTC: 
+Version: 1
+Entity: 4442915856001
+Type: ASSET
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-08-25 10:26:37 UTC: 
+Version: 1
+Entity: 4442915979001
+Type: ASSET
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-08-25 10:26:41 UTC: 
+Version: 1
+Entity: 4442915992001
+Type: ASSET
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-08-25 10:26:49 UTC: 
+Version: 1
+Entity: 4442916011001
+Type: ASSET
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-08-25 10:26:50 UTC: 
+Version: 1
+Entity: 4442916008001
+Type: ASSET
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-08-25 10:26:56 UTC: 
+Version: 1
+Entity: 4442916025001
+Type: ASSET
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-08-25 10:26:57 UTC: 
+Version: 1
+Entity: 4442916045001
+Type: ASSET
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-08-25 10:26:58 UTC: 
+Version: 1
+Entity: 4442916050001
+Type: ASSET
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-08-25 10:27:05 UTC: 
+Version: 1
+Entity: 4442916173001
+Type: ASSET
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-08-25 10:27:10 UTC: 
+Version: 1
+Entity: 4442916176001
+Type: ASSET
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
+2015-08-25 10:27:11 UTC: 
+Version: 1
+Entity: 4442888830001
+Type: TITLE
+Status: SUCCESS
+Error Message: 
+Action: CREATE
+-------------------------------
